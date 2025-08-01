@@ -221,6 +221,5 @@ If you have any questions or need help, please:
 
 ---
 
-**Built with ❤️ by [Lisanegbriel Abay](https://github.com/lisan-5)**
 
 ⭐ Star this repo if you find it helpful!
