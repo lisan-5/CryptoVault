@@ -2,7 +2,6 @@
 
 A modern, real-time cryptocurrency and stock market tracking platform built with Next.js, React, and Tailwind CSS. Features advanced portfolio management, market analysis, and beautiful visualizations.
 
-![CryptoVault Dashboard](https://via.placeholder.com/800x400/6366f1/ffffff?text=CryptoVault+Dashboard)
 
 ## ✨ Features
 
