@@ -46,35 +46,35 @@ A modern, real-time cryptocurrency and stock market tracking platform built with
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+  ```bash
    git clone https://github.com/lisan-5/cryptovault.git
    cd cryptovault
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ``` bash
    npm install
    # or
    yarn install
-   \`\`\`
+  ``
 
 3. **Set up environment variables**
    
    Create a `.env.local` file in the root directory:
-   \`\`\`env
+   ```env
    # CoinGecko API Key (get from https://coingecko.com/en/api)
    COINGECKO_API_KEY=your_coingecko_api_key_here
    
    # Alpha Vantage API Key (get from https://www.alphavantage.co/support/#api-key)
    ALPHA_VANTAGE_API_KEY=your_alpha_vantage_api_key_here
-   \`\`\`
+   ```
 
 4. **Run the development server**
-   \`\`\`bash
+   ```bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 5. **Open your browser**
    
@@ -82,7 +82,7 @@ A modern, real-time cryptocurrency and stock market tracking platform built with
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 cryptovault/
 ├── app/                    # Next.js app directory
 │   ├── api/               # API routes
@@ -102,7 +102,7 @@ cryptovault/
 │   └── ...               # Other components
 ├── lib/                  # Utility functions
 └── public/              # Static assets
-\`\`\`
+```
 
 ## 🔧 Configuration
 
